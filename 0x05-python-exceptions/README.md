@@ -1,0 +1,1 @@
+correctly handle an exception
